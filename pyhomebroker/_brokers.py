@@ -59,5 +59,10 @@ brokers = [
     'broker_id': 209,
     'name': 'Futuro Bursátil S.A.',
     'page': 'https://homebroker.futurobursatil.com.ar'
+    },
+    {
+    'broker_id': 261,
+    'name': 'Integrar S.A.',
+    'page': 'https://hb.integrarinversiones.com.ar/'
     }
 ]
